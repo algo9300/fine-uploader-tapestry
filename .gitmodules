@@ -1,0 +1,6 @@
+[submodule "fine-uploader"]
+	path = fine-uploader
+	url = git@github.com:valums/file-uploader.git
+[submodule "src/main/resources/fine-uploader"]
+	path = src/main/resources/fine-uploader
+	url = git@github.com:valums/file-uploader.git
